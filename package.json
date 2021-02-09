@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "dAppWalletUtils": "git+https://github.com/defi-vn/dAppWalletUtils.git#e694ed426336e730b9221d9d2072538272ba6a09",
+    "dotenv": "^8.2.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
